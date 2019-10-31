@@ -2,8 +2,7 @@
 leetcode记录
 
 # 分享内容
-- [排序专题]()
-- [test](./doc/hello.md)
+- [排序专题](./doc/sort.md)
 
 # 题目解析
 ### 排序专题
