@@ -1,13 +1,11 @@
 # leetcode
-leetcode记录
+leetcode刷题小分队
 
-# 分享内容
-- [排序专题](./doc/sort.md)
+## 分享内容
+- [doc汇总](./doc)
 
-# 题目解析
-### 排序专题
-### 字符串专题
-- [859亲密字符串](./code/string/859.BuddyStrings.js)
+## 提交代码
+- [提交代码](./code)
 
-# 关于Team
-来自leetcode小组
+## 关于Team
+千里之行，始于足下
